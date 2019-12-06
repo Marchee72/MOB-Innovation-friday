@@ -3,4 +3,6 @@
 ################################################################################
 
 /Backend/MOB.Backend/EntryPoint/obj
+/Backend/MOB.Backend/API/bin
+/Backend/MOB.Backend/API/obj
 /Backend/MOB.Backend/.vs
