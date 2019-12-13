@@ -1,0 +1,8 @@
+C:\Users\lamarche\source\repos\MOB-Innovation-friday\Backend\MOB.Backend\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Users\lamarche\source\repos\MOB-Innovation-friday\Backend\MOB.Backend\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\lamarche\source\repos\MOB-Innovation-friday\Backend\MOB.Backend\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\lamarche\source\repos\MOB-Innovation-friday\Backend\MOB.Backend\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+C:\Users\lamarche\source\repos\MOB-Innovation-friday\Backend\MOB.Backend\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\lamarche\source\repos\MOB-Innovation-friday\Backend\MOB.Backend\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\lamarche\source\repos\MOB-Innovation-friday\Backend\MOB.Backend\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Users\lamarche\source\repos\MOB-Innovation-friday\Backend\MOB.Backend\Models\obj\Debug\netcoreapp3.1\Models.pdb
