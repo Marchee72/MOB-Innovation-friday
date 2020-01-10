@@ -1,16 +1,13 @@
 <template>
   <v-container>
-    <MainCalendar/>
+    <h1>boooooke</h1>
   </v-container>
 </template>
 
 <script lang="ts">
 import {Vue,  Component}  from "vue-property-decorator";
-import MainCalendar from "./MainCalendar.vue";
 
-@Component({
-  components: {MainCalendar}
-})
+@Component
 export default class HelloWorld extends Vue {
 
 }

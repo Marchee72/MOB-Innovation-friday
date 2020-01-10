@@ -1,9 +1,9 @@
 <template>
-  <div>
+  <v-container>
     <v-sheet height="500">
       <v-calendar type="week" now="2019-01-08" value="2019-01-08"></v-calendar>
     </v-sheet>
-  </div>
+  </v-container>
 </template>
 
 <script lang="ts">
